@@ -1,0 +1,86 @@
+ [
+    {
+      "id": "1",
+      "title": "Marketing Manager",
+      "type": "Full-Time",
+      "description": "We are seeking an experienced Marketing Manager to lead our campaigns in Boston, MA. The ideal candidate will have strong leadership skills and a track record of delivering high-impact marketing strategies.",
+      "location": "Boston, MA",
+      "salary": "$75K - $85K",
+      "company": {
+        "name": "BrightMark Media",
+        "description": "BrightMark Media is a top-tier marketing agency that helps brands connect with their audiences through creative and data-driven strategies.",
+        "contactEmail": "jobs@brightmarkmedia.com",
+        "contactPhone": "555-111-2222"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Registered Nurse (RN)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Seeking compassionate and dedicated Registered Nurses to join our team in Miami. Applicants should have experience in patient care and hospital procedures.",
+      "salary": "$65K - $75K",
+      "company": {
+        "name": "Sunshine Health Center",
+        "description": "Sunshine Health Center is a modern healthcare facility providing top-quality care and support services in South Florida.",
+        "contactEmail": "hr@sunshinehealth.com",
+        "contactPhone": "555-333-4444"
+      }
+    },
+    {
+      "id": "3",
+      "title": "High School Math Teacher",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "We are hiring a Math Teacher for grades 9-12. Candidates should be passionate about education and have prior teaching experience.",
+      "salary": "$55K - $70K",
+      "company": {
+        "name": "Brooklyn Academy",
+        "description": "Brooklyn Academy is a leading private school committed to academic excellence and holistic student development.",
+        "contactEmail": "jobs@brooklynacademy.edu",
+        "contactPhone": "555-777-8888"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Retail Store Associate",
+      "type": "Part-Time",
+      "description": "Join our team as a part-time associate in Phoenix, AZ. We are looking for enthusiastic individuals to help customers and maintain store operations.",
+      "location": "Phoenix, AZ",
+      "salary": "$15/hr - $18/hr",
+      "company": {
+        "name": "Desert Retail Co.",
+        "description": "Desert Retail Co. is a growing regional retail chain offering quality products at affordable prices.",
+        "contactEmail": "contact@desertretail.com",
+        "contactPhone": "555-999-1010"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Logistics Coordinator",
+      "type": "Full-Time",
+      "description": "We are looking for an organized and detail-oriented Logistics Coordinator in Atlanta, GA. Prior experience with inventory systems and shipping logistics is a plus.",
+      "location": "Atlanta, GA",
+      "salary": "$60K - $70K",
+      "company": {
+        "name": "Swift Freight Inc.",
+        "description": "Swift Freight Inc. is a logistics and supply chain solutions company serving clients across North America.",
+        "contactEmail": "careers@swiftfreight.com",
+        "contactPhone": "555-232-4545"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Customer Support Specialist",
+      "type": "Full-Time",
+      "description": "Join our growing support team in Portland, OR. We're looking for someone with excellent communication skills and a passion for helping customers.",
+      "location": "Portland, OR",
+      "salary": "$45K - $55K",
+      "company": {
+        "name": "Helix Tech Support",
+        "description": "Helix is a customer-centric company offering tech support services to a global clientele. Our team thrives on solving problems and improving user experience.",
+        "contactEmail": "supportcareers@helix.com",
+        "contactPhone": "555-676-7878"
+      }
+    }
+  ]
