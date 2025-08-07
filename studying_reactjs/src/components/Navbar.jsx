@@ -1,32 +1,31 @@
-import logo from '../assets/logo.png'; 
+import logo from '../assets/logo.png';
+import { NavLink } from 'react-router-dom';
+
 function Navbar() {
-  const linkClass =
-    'text-white hover:bg-indigo-500 hover:text-white px-3 py-2 rounded-md text-sm font-medium';
+ const buttonCss = ({isActive})=>isActive ? "bg-red-700 hover:bg-red-600 text-white hover:text-white px-3 py-2 rounded-md text-sm font-medium " : 'text-white hover:bg-red-600 hover:text-white px-3 py-2 rounded-md text-sm font-medium';
 
   return (
-    <nav className='bg-indigo-700 border-b border-indigo-500'>
+    <nav className='bg-yellow-500 border-b border-white'>
       <div className='mx-auto max-w-7xl px-2 sm:px-6 lg:px-8'>
         <div className='flex h-20 items-center justify-between'>
           <div className='flex flex-1 items-center justify-center md:items-stretch md:justify-start'>
-            <a className='flex flex-shrink-0 items-center mr-4' href='/'>
-              <img className='h-10 w-auto' src={logo} alt='React Jobs' />
-              <span className='hidden md:block text-white text-2xl font-bold ml-2'>
-                React Jobs
+            <a className='flex flex-shrink-0 items-center mr-4' href="\">
+              <img className='h-[70px] w-auto' src={logo} alt='React Jobs' />
+              <span className='hidden md:block text-white text-2xl font-bold ml-[0.5rem]'>
+                Jobs
               </span>
             </a>
-            <div className='md:ml-auto'>
-              <div className='flex space-x-2'>
-                <a href='/' className={linkClass}>
-                  Home
-                </a>
-                <a href='/jobs' className={linkClass}>
-                  Jobs
-                </a>
-                <a href='/add-job' className={linkClass}>
-                  Add Job
-                </a>
-              </div>
-            </div>
+          </div>
+          <div className='flex space-x-2'>
+            <NavLink to='/' className={buttonCss}>
+              Home
+            </NavLink>
+            <NavLink to='/jobs' className={buttonCss}>
+              Jobs
+            </NavLink>
+            <NavLink to='/add-job' className={buttonCss}>
+              Add Job
+            </NavLink>
           </div>
         </div>
       </div>

@@ -1,86 +1,88 @@
-[
+{
+  "jobs": [
     {
       "id": "1",
-      "title": "Senior React Developer",
+      "title": "Marketing Manager",
       "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "description": "We are seeking an experienced Marketing Manager to lead our campaigns in Boston, MA. The ideal candidate will have strong leadership skills and a track record of delivering high-impact marketing strategies.",
       "location": "Boston, MA",
-      "salary": "$70K - $80K",
+      "salary": "$75K - $85K",
       "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
+        "name": "BrightMark Media",
+        "description": "BrightMark Media is a top-tier marketing agency that helps brands connect with their audiences through creative and data-driven strategies.",
+        "contactEmail": "jobs@brightmarkmedia.com",
+        "contactPhone": "555-111-2222"
       }
     },
     {
       "id": "2",
-      "title": "Front-End Engineer (React & Redux)",
+      "title": "Registered Nurse (RN)",
       "type": "Full-Time",
       "location": "Miami, FL",
-      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
-      "salary": "$70K - $80K",
+      "description": "Seeking compassionate and dedicated Registered Nurses to join our team in Miami. Applicants should have experience in patient care and hospital procedures.",
+      "salary": "$65K - $75K",
       "company": {
-        "name": "Veneer Solutions",
-        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
-        "contactEmail": "contact@loremipsum.com",
-        "contactPhone": "555-555-5555"
+        "name": "Sunshine Health Center",
+        "description": "Sunshine Health Center is a modern healthcare facility providing top-quality care and support services in South Florida.",
+        "contactEmail": "hr@sunshinehealth.com",
+        "contactPhone": "555-333-4444"
       }
     },
     {
       "id": "3",
-      "title": "React.js Dev",
+      "title": "High School Math Teacher",
       "type": "Full-Time",
       "location": "Brooklyn, NY",
-      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
-      "salary": "$70K - $80K",
+      "description": "We are hiring a Math Teacher for grades 9-12. Candidates should be passionate about education and have prior teaching experience.",
+      "salary": "$55K - $70K",
       "company": {
-        "name": "Dolor Cloud",
-        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
-        "contactEmail": "contact@dolorsitamet.com",
-        "contactPhone": "555-555-5555"
+        "name": "Brooklyn Academy",
+        "description": "Brooklyn Academy is a leading private school committed to academic excellence and holistic student development.",
+        "contactEmail": "jobs@brooklynacademy.edu",
+        "contactPhone": "555-777-8888"
       }
     },
     {
       "id": "4",
-      "title": "React Front-End Developer",
+      "title": "Retail Store Associate",
       "type": "Part-Time",
-      "description": "Join our team as a Part-Time Front-End Developer in beautiful Pheonix, AZ. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
-      "location": "Pheonix, AZ",
-      "salary": "$60K - $70K",
+      "description": "Join our team as a part-time associate in Phoenix, AZ. We are looking for enthusiastic individuals to help customers and maintain store operations.",
+      "location": "Phoenix, AZ",
+      "salary": "$15/hr - $18/hr",
       "company": {
-        "name": "Alpha Elite",
-        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
-        "contactEmail": "contact@adipisicingelit.com",
-        "contactPhone": "555-555-5555"
+        "name": "Desert Retail Co.",
+        "description": "Desert Retail Co. is a growing regional retail chain offering quality products at affordable prices.",
+        "contactEmail": "contact@desertretail.com",
+        "contactPhone": "555-999-1010"
       }
     },
     {
       "id": "5",
-      "title": "Full Stack React Developer",
+      "title": "Logistics Coordinator",
       "type": "Full-Time",
-      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "description": "We are looking for an organized and detail-oriented Logistics Coordinator in Atlanta, GA. Prior experience with inventory systems and shipping logistics is a plus.",
       "location": "Atlanta, GA",
-      "salary": "$90K - $100K",
+      "salary": "$60K - $70K",
       "company": {
-        "name": "Browning Technologies",
-        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
-        "contactEmail": "contact@consecteturadipisicing.com",
-        "contactPhone": "555-555-5555"
+        "name": "Swift Freight Inc.",
+        "description": "Swift Freight Inc. is a logistics and supply chain solutions company serving clients across North America.",
+        "contactEmail": "careers@swiftfreight.com",
+        "contactPhone": "555-232-4545"
       }
     },
     {
       "id": "6",
-      "title": "React Native Developer",
+      "title": "Customer Support Specialist",
       "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "description": "Join our growing support team in Portland, OR. We're looking for someone with excellent communication skills and a passion for helping customers.",
       "location": "Portland, OR",
-      "salary": "$100K - $110K",
+      "salary": "$45K - $55K",
       "company": {
-        "name": "Port Solutions INC",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "555-555-5555"
+        "name": "Helix Tech Support",
+        "description": "Helix is a customer-centric company offering tech support services to a global clientele. Our team thrives on solving problems and improving user experience.",
+        "contactEmail": "supportcareers@helix.com",
+        "contactPhone": "555-676-7878"
       }
     }
   ]
+}

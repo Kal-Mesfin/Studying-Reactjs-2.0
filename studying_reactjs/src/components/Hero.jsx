@@ -1,18 +1,18 @@
-function Hero ({title="become a React Dev",subtitle="Find the job that fits your skill level"}){
-
+function Hero({title="Apply for a job now.", subtitle="Find the job that fits your skill level"}){
     return (
-    <section className='bg-indigo-700 py-20 mb-4'>
-        <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center'>
-            <div className='text-center'>
-                <h1 className='text-4xl font-extrabold text-white sm:text-5xl md:text-6xl'>
+        <div className="bg-yellow-500 py-20">
+            <div className="max-w-7xl mx-auto items-center px-4 flex flex-col ">
+                <div className="text-center">
+                   <h1 className="text-6xl font-extrabold text-white font-mono sm:text-4xl md:text-5xl ">
                     {title}
-                </h1>
-             <p className='my-4 text-xl text-white'>{subtitle}</p>
+                   </h1>
+                    <p className="font-serif my-6 text-xl text-white ">
+                        {subtitle}
+                    </p>
+                </div>
             </div>
         </div>
-    </section>
-  );
+    );
 
-
-}
+};
 export default Hero
